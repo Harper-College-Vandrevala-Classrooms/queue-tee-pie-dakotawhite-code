@@ -8,6 +8,6 @@ public class Puppy implements Cutie {
 
     @Override
     public Integer cutenessRating() {
-        return 11;
+        return 11;  // Return a cuteness rating (could be dynamic in a more advanced version)
     }
 }
